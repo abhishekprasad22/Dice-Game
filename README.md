@@ -11,4 +11,5 @@ The game is played with two dice for each player, and the player with the highes
   <li>The player with the highest total points on the dice wins.</li>
   <li>Simple and intuitive user interface.</li>
 </ul>
+
 ![image](https://github.com/user-attachments/assets/3f176efa-55f0-475a-861f-0fd44616d501)
